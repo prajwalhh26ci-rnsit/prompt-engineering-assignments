@@ -6,14 +6,14 @@
 
    Here is a simplified summary of how it works:
 
-   1.Breaks routine thinking: Helps us think beyond the usual ways of solving problems.
-   2.Creates new ideas: Combines different thoughts to form unique solutions.
-   3.Encourages experimentation: Makes us more willing to try new things.
-   4.Solves problems: Helps us find simple and creative solutions to difficult problems.
-   5.Improves existing ideas: Makes products, services, and technologies better.
-   6.Turns imagination into reality: Converts creative thoughts into practical solutions.
-   7.Creates value: Leads to useful inventions that can benefit people and society.
-   8.Leads to breakthroughs: Creative thinking can result in innovations that change the way we live and work.
+   1. Breaks routine thinking: Helps us think beyond the usual ways of solving problems.
+   2. Creates new ideas: Combines different thoughts to form unique solutions.
+   3. Encourages experimentation: Makes us more willing to try new things.
+   4. Solves problems: Helps us find simple and creative solutions to difficult problems.
+   5. Improves existing ideas: Makes products, services, and technologies better.
+   6. Turns imagination into reality: Converts creative thoughts into practical solutions.
+   7. Creates value: Leads to useful inventions that can benefit people and society.
+   8. Leads to breakthroughs: Creative thinking can result in innovations that change the way we live and work.
 
 
 
