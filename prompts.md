@@ -2,9 +2,9 @@
 
 1. How can unlocking creativity lead to breakthrough innovations?
 
-   Unlocking creativity helps us think beyond existing ideas and find new possibilities. It allows us to question normal ways of doing things and develop better solutions. Creativity is an important part of innovation because it turns imagination into useful ideas.
+Unlocking creativity helps us think beyond existing ideas and find new possibilities. It allows us to question normal ways of doing things and develop better solutions. Creativity is an important part of innovation because it turns imagination into useful ideas.
 
-   Here is a simplified summary of how it works:
+Here is a simplified summary of how it works:
 
    1. Breaks routine thinking: Helps us think beyond the usual ways of solving problems.
    2. Creates new ideas: Combines different thoughts to form unique solutions.
